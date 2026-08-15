@@ -26,7 +26,7 @@ git clone https://github.com/GCU-Computer-Association/algorithm-training.git
 cd algorithm-training
 ```
 
-在对应年份下创建自己的目录。下面以用户 `xiaoming` 为例，实际使用时请替换成自己的名字：
+在对应年份（即自己的入学年份）下创建自己的目录。下面以用户 `xiaoming` 为例，实际使用时请替换成自己的名字：
 
 ```bash
 mkdir -p students/2026/xiaoming
